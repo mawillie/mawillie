@@ -1,8 +1,8 @@
-## Mawile!
+## Sente-se e descanse um pouco..
 
 
   <div align="center">
-    <img src="https://cdn.discordapp.com/attachments/918157579815911444/961789088980164658/mawile-cute_1.gif">
+    <img src="https://cdn.discordapp.com/attachments/969685426170380430/969685466989355028/tumblr_463de864bb690d7468fb84c989544c0e_516bfe9f_540.gif">
   </div>
 
   ##
@@ -19,13 +19,14 @@
       <img align="center" alt="Will-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
       <img align="center" alt="Will-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
       <img align="center" alt="Will-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <img align="right" alt="Will-pic" height="150" style="border-radius:50px;"
-           src="https://cdn.discordapp.com/attachments/918157579815911444/961983568106627152/pgif3.gif?width=676&height=676">
+      <img align="right" alt="bulb" height="100"
+           src="https://cdn.discordapp.com/attachments/969685426170380430/969689407688933476/omori-lightbulb.gif">
+      <img align="right" alt="omori-pic" height="150" style="border-radius:50px;"
+           src="https://cdn.discordapp.com/attachments/969685426170380430/969690926215757834/friday-night.gif">
     </div>
 </div>
   
   ##
-
 
 ![Snake animation](https://github.com/mawillie/mawillie/blob/output/github-contribution-grid-snake.svg)
  
