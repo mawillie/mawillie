@@ -7,7 +7,7 @@
 
   ##
 
-<div align="start"> 
+<div align="left"> 
   <a href="https://github.com/mawillie">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mawillie&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <!-- theme: outrun, blue-green  -->
@@ -16,11 +16,13 @@
   
 <div>
     <div style="display: inline_block"><br>
-      <img align="center" alt="Will-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-      <img align="center" alt="Will-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      <img align="center" alt="Will-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img align="center" alt="Will-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <img align="center" alt="Will-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg">
+        <p align="left"> 
+          <img src="https://img.shields.io/badge/python-000?style=for-the-badge&logo=python&logoColor=70e000" />
+          <img src="https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5&logoColor=70e000" />
+          <img src="https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3&logoColor=70e000" />
+          <img src="https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript&logoColor=70e000" />
+          <img src="https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap&logoColor=70e000" />  
+        </p>
       <img align="right" alt="bulb" height="100"
            src="https://cdn.discordapp.com/attachments/969685426170380430/969689407688933476/omori-lightbulb.gif">
       <img align="right" alt="omori-pic" height="150" style="border-radius:50px;"
