@@ -7,9 +7,11 @@
 
   ##
   
-<img align="left" alt="omori-pic" height=150
-   src="https://cdn.discordapp.com/attachments/969685426170380430/969690926215757834/friday-night.gif">
-<img align="right" alt="bulb" height=100
+<!-- <img align="left" alt="omori-pic" height=150
+   src="https://cdn.discordapp.com/attachments/969685426170380430/969690926215757834/friday-night.gif"> -->
+<img align="left" alt="bulb" height=130
+src="https://cdn.discordapp.com/attachments/969685426170380430/969689407688933476/omori-lightbulb.gif">
+<img align="right" alt="bulb" height=130
 src="https://cdn.discordapp.com/attachments/969685426170380430/969689407688933476/omori-lightbulb.gif">
 
 <div align="center"> 
