@@ -16,7 +16,7 @@ src="https://cdn.discordapp.com/attachments/969685426170380430/96968940768893347
 
 <div align="center"> 
   <a href="https://github.com/mawillie">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mawillie&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
+  <img height="180em" alt="Mawillie's Github Stats" src="https://github-readme-stats.vercel.app/api?username=mawillie&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <!-- theme: outrun, blue-green  -->
   <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mawillie&layout=compact&langs_count=4&theme=outrun"/> -->
 </div>
